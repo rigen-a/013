@@ -1,0 +1,25 @@
+body {
+background-image: radial-gradient(circle at center, #899Dc4, #495D84);
+}
+h1 {
+    font-family: Times New Roman; 
+    color: aliceblue;
+    font-size: large;
+    }
+h2 {
+    font-family: Times New Roman; 
+    color: aliceblue;
+    font-size: large;
+    }
+p:: first-line {
+font-size: 120%;
+font-weight: bold;
+}
+b {
+    font-family:'Times New Roman';
+    color: aliceblue; 
+    
+}
+
+
+
